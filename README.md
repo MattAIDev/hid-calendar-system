@@ -85,3 +85,9 @@ El sistema sigue una arquitectura de **Cliente-Servidor (Monolito Modular)**:
 *   **Sanitización:** Middleware dedicado a la detección de patrones maliciosos y limpieza de `req.body`.
 *   **Security Headers:** Implementación exhaustiva de Helmet para mitigar ataques XSS y Clickjacking.
 *   **Rate Limiting:** Protección contra ataques de fuerza bruta y denegación de servicio a nivel de aplicación.
+
+## 📸 Vista del sistema
+
+<p align="center">
+  <img src="calendario.png" width="900"/>
+</p>
