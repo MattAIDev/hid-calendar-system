@@ -1,6 +1,4 @@
-# hid-calendar-system
-Sistema de gestión de eventos y calendarios colaborativos desarrollado para la comuna de Humberto Primo.
-
+# Sistema de gestión de eventos y calendarios colaborativos desarrollado para la comuna de Humberto Primo.
 Contexto y Objetivo
 
 Este sistema de calendario fue desarrollado para la comuna de Humberto Primo con el objetivo de centralizar y organizar la gestión de eventos a nivel regional. Surge ante la necesidad de contar con una herramienta que permita registrar, coordinar y dar seguimiento a actividades de manera estructurada, reemplazando procesos manuales y desorganizados.
